@@ -1,0 +1,1 @@
+import{d as t,a as s,o as a,c as r,b as _}from"./index-782a0a6a.js";const d=t({__name:"index",setup(i){const e=o=>{console.log(o)},n=o=>{console.log(o)};return(o,l)=>{const c=s("gdp-choose-city");return a(),r("div",null,[_(c,{onChangeCity:e,onChangeProvince:n})])}}});export{d as default};

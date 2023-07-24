@@ -1,0 +1,1 @@
+import{d as a,a as c,o as s,f as t}from"./index-782a0a6a.js";const l=a({__name:"index",setup(r){const e=o=>{console.log(o)};return(o,_)=>{const n=c("gdp-choose-area");return s(),t(n,{onChange:e})}}});export{l as default};

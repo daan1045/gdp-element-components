@@ -1,0 +1,1 @@
+import{d as a,r as i,a as n,o as l,c as r,b as c,w as p,e as d,u as _,i as f}from"./index-782a0a6a.js";const v=a({__name:"index",setup(u){let e=i(!1);return(m,o)=>{const t=n("gdp-choose-icon");return l(),r("div",null,[c(t,{title:"选择图标",visible:_(e),"onUpdate:visible":o[0]||(o[0]=s=>f(e)?e.value=s:e=s)},{default:p(()=>[d(" 选择图标 ")]),_:1},8,["visible"])])}}});export{v as default};
